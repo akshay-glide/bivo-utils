@@ -1,4 +1,4 @@
-module bivo-utils
+module github.com/akshay-glide/bivo-utils
 
 go 1.23.11
 
